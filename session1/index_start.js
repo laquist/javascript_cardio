@@ -69,6 +69,10 @@ function capitalizeLetters(str) {
 console.log('Opgave 4');
 console.log(capitalizeLetters('de røde hunde'));
 
+//
+// Denne er ikke færdig
+//
+
 
 // CHALLENGE 5: MAX CHARACTER
 // Return the character that is most common in a string
