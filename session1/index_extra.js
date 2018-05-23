@@ -12,6 +12,7 @@ function reverseString(str) {
   // CONTRIBUTED SOLUTION
   // BY Ankita Patil
   // return str.split("").reduce((reversedString, character) => character + reversedString, "");
+  
 }
 
 // CHALLENGE 2: VALIDATE A PALINDROME
